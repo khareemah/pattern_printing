@@ -1,10 +1,4 @@
 #include <stdio.h>
-
-/**
-* main - main fuction
-*  Return: nothing
-* 
-**/
  
 // print the pattern below
 // *
