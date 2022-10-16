@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// print the pattern below
 // 1
 // 22
 // 333
